@@ -1,2 +1,2 @@
 # FizzBuzz
-Solving FizzBuzz using boolean
+Solving FizzBuzz using boolean variables
